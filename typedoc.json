@@ -1,4 +1,4 @@
 {
-    "entryPoints": ["src/controllers/contact-controller.ts"],
+    "entryPoints": ["src/services/contact-service.ts"],
     "out": "docs"
   }
