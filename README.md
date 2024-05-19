@@ -104,16 +104,14 @@ dist/
 
 Estimate of Time to Complete the Project
 
-- Setting up the project (installation, configuration): 1 hour
-- Creating the Contact model: 30 minutes
-- Implementing the controller logic: 2 hours
-- Setting up the Express server and routes: 1 hour
-- Writing and running unit tests: 1 hour
-- Generating documentation with TypeDoc: 30 minutes
-- Writing the README.md file: 30 minutes
+- Setting up the project (installation, configuration): 30 minutes
+- Creating the Contact model: 15 minutes
+- Implementing the controller logic: 1 hour
+- Setting up the Express server and routes: 30 minutes
+- Writing and running unit tests: 30 minutes
+- Generating documentation with TypeDoc: 15 minutes
+- Writing the README.md file: 15 minutes
 
-Total estimated time: 6 hours 30 minutes
+Total estimated time: 3 hours 15 minutes
 
-License
-
-This project is licensed under the MIT License.
+Thanks!
